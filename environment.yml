@@ -6,4 +6,5 @@ dependencies:
   - python=3.9
   - numpy
   - matplotlib
+  - ipykernel
 prefix: /home/jovyan/envs/eratosthenes
